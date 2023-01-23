@@ -1,2 +1,2 @@
 # createListItemsOnlyJS
-A method to create unordered list by only JavaScript + styling them also only by JavaScript
+A method to create unordered list using only JavaScript + styling them also using only JavaScript
